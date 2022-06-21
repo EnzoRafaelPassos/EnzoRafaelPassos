@@ -1,4 +1,4 @@
-### <h1><i>Olá, meu nome é Enzo Rafael dos Passos e sou um estudante de programação<i> 👋</h1>
+### <h1><i>Olá bem vindo, meu nome é Enzo Rafael dos Passos<i> 👋</h1>
 
  - 🧑‍💻 Cursando técnico em Desenvolvimento de Sistemas
  - 🧑‍💻 Cursando Tecnólogo em Analise e Desenvolvimento de Sistemas
