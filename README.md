@@ -1,7 +1,7 @@
 ### <h1><i>Bem vindo, meu nome é Enzo Rafael dos Passos<i> 👋</h1>
 
- - 🧑‍💻 Técnico em Desenvolvimento de Sistemas - Conlcuido
- - 🧑‍💻 Cursando Tecnólogo em Analise e Desenvolvimento de Sistemas - Terceiro Módulo
+ - 🧑‍💻 Técnico em Desenvolvimento de Sistemas - Termino em Dez/2022
+ - 🧑‍💻 Cursando Tecnólogo em Analise e Desenvolvimento de Sistemas - Término em Dez/2024
  - 📧 Contate-me no email: enzorafel14@gmail.com
 
 ##
